@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\PROJECT№1№2\Zadacha4\bin\Debug\Zadacha4.exe.config
+C:\Users\Admin\Desktop\PROJECT№1№2\Zadacha4\bin\Debug\Zadacha4.exe
+C:\Users\Admin\Desktop\PROJECT№1№2\Zadacha4\bin\Debug\Zadacha4.pdb
+C:\Users\Admin\Desktop\PROJECT№1№2\Zadacha4\obj\Debug\Zadacha4.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PROJECT№1№2\Zadacha4\obj\Debug\Zadacha4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PROJECT№1№2\Zadacha4\obj\Debug\Zadacha4.exe
+C:\Users\Admin\Desktop\PROJECT№1№2\Zadacha4\obj\Debug\Zadacha4.pdb
+D:\Projects\VisualStudioProjects\PROJECT№1№2 - zad4\Zadacha4\bin\Debug\Zadacha4.exe.config
+D:\Projects\VisualStudioProjects\PROJECT№1№2 - zad4\Zadacha4\bin\Debug\Zadacha4.exe
+D:\Projects\VisualStudioProjects\PROJECT№1№2 - zad4\Zadacha4\bin\Debug\Zadacha4.pdb
+D:\Projects\VisualStudioProjects\PROJECT№1№2 - zad4\Zadacha4\obj\Debug\Zadacha4.csproj.AssemblyReference.cache
+D:\Projects\VisualStudioProjects\PROJECT№1№2 - zad4\Zadacha4\obj\Debug\Zadacha4.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudioProjects\PROJECT№1№2 - zad4\Zadacha4\obj\Debug\Zadacha4.exe
+D:\Projects\VisualStudioProjects\PROJECT№1№2 - zad4\Zadacha4\obj\Debug\Zadacha4.pdb
